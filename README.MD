@@ -14,11 +14,15 @@ ___操作系统___:若存在对系统支持存在要求的特别知识点，在�
 
 ****************************************
 
-
+本项目主要介绍python相关内容如下表:  
 |  序号   | 学习内容 | 难易程度 | 预计耗时 |
 |  ----  | ----  |  ----  | ----  |
-| 1  | [yield关键字介绍](https://github.com/afcentry/PyTips/blob/master/yield%E5%85%B3%E9%94%AE%E5%AD%97%E4%BB%8B%E7%BB%8D.MD) | 中等  |  0.5hour |
-| 2  | [python多线程介绍](https://github.com/afcentry/PyTips/blob/master/yield%E5%85%B3%E9%94%AE%E5%AD%97%E4%BB%8B%E7%BB%8D.MD) | 中等  |  0.5hour |
+| 1  | [python简介](https://github.com/afcentry/PyTips/blob/master/yield%E5%85%B3%E9%94%AE%E5%AD%97%E4%BB%8B%E7%BB%8D.MD) | 中等  |  0.2hour |
+| 2  | [python安装](https://github.com/afcentry/PyTips/blob/master/yield%E5%85%B3%E9%94%AE%E5%AD%97%E4%BB%8B%E7%BB%8D.MD) | 中等  |  0.3hour |
+| 3  | [初识python](https://github.com/afcentry/PyTips/blob/master/yield%E5%85%B3%E9%94%AE%E5%AD%97%E4%BB%8B%E7%BB%8D.MD) | 中等  |  0.5hour |
+| 4  | [python基础](https://github.com/afcentry/PyTips/blob/master/yield%E5%85%B3%E9%94%AE%E5%AD%97%E4%BB%8B%E7%BB%8D.MD) | 中等  |  1.5hour |
+| 5  | [yield关键字介绍](https://github.com/afcentry/PyTips/blob/master/yield%E5%85%B3%E9%94%AE%E5%AD%97%E4%BB%8B%E7%BB%8D.MD) | 中等  |  0.5hour |
+| 6  | [python多线程介绍](https://github.com/afcentry/PyTips/blob/master/yield%E5%85%B3%E9%94%AE%E5%AD%97%E4%BB%8B%E7%BB%8D.MD) | 中等  |  0.5hour |
 
 
 ****************************************
